@@ -1,0 +1,29 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "Practice day3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Division17/React101.git"
+  },
+  "author": "Dhirender Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Division17/React101/issues"
+  },
+  "homepage": "https://github.com/Division17/React101#readme",
+  "dependencies": {
+    "parcel": "^2.10.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
